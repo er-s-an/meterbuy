@@ -56,7 +56,7 @@ The operator already has the task. MeterBuy removes the part they do not want to
 
 ### 05 How can someone try it?
 
-Open the public demo, or clone the repo and run `npm install` then `npm run dev`. Choose a job, edit the symbols or the draft or the query, set a max spend, and press Run the desk. Mock needs no funds and is labeled. Live needs the burner funded with test USDC, as the README describes. Then open any signal hash on a paid row. `npm run smoke` repeats one BTC price purchase from the command line.
+Open https://meterbuy.vercel.app, or clone https://github.com/er-s-an/meterbuy and run `npm install` then `npm run dev`. Choose a job, edit the symbols or the draft or the query, set a max spend, and press Run the desk. Mock needs no funds and is labeled. Live needs the burner funded with test USDC, as the README describes. Then open any signal hash on a paid row. `npm run smoke` repeats one BTC price purchase from the command line.
 
 ## What this entry refuses
 

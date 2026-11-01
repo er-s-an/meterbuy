@@ -4,6 +4,8 @@ MeterBuy is a personal desk for an operator who needs a fraud check, a web note,
 
 This build is for Telegraph Hackathon Season II, Apps & Agents, Mission 09 Personal Agent. Soft Join is already registered. **Do not submit this repository to the portal unless the registrant says so.**
 
+Public desk: [https://meterbuy.vercel.app](https://meterbuy.vercel.app). Source: [https://github.com/er-s-an/meterbuy](https://github.com/er-s-an/meterbuy). The deployed burner is unfunded, so a Live run falls back to a labeled stand-in and does not print a receipt.
+
 ## What it does
 
 1. You pick a job and change the inputs.
