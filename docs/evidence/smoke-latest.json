@@ -1,0 +1,45 @@
+{
+  "ranAt": "2026-11-01T18:57:34.318Z",
+  "engine": "https://devnode.telegraphprotocol.com/engine",
+  "node": "https://devnode.telegraphprotocol.com",
+  "intentCount": 136,
+  "epoch": 1969,
+  "topMiner": {
+    "slug": "cp-coinbase",
+    "rank": 1,
+    "score": 1,
+    "id": "190069",
+    "name": "Cp Coinbase"
+  },
+  "challenge": {
+    "httpStatus": 402,
+    "exact": {
+      "scheme": "exact",
+      "network": "eip155:11155111",
+      "amount": "10000",
+      "asset": "0xcc194e1a843B658526D0D5C431f670028582Ae17",
+      "payTo": "0x3624EB012B5E998BB57B6bE6C9Cfc9c4bc5eb99b"
+    },
+    "schemes": [
+      "exact",
+      "escrow"
+    ]
+  },
+  "wallet": {
+    "address": "0x5A347d712765ECDC145AA389534256E0Cb184A1E",
+    "eth": "0",
+    "usdc": "0.000000",
+    "canPay": false,
+    "note": "No spendable test USDC."
+  },
+  "m2m": "blocked-unfunded",
+  "receipt": null,
+  "signalHash": null,
+  "task": {
+    "preset": "briefing",
+    "symbol": "BTC",
+    "outcome": "Not sized. No miner intel was purchased.",
+    "dependsOn": []
+  },
+  "error": null
+}

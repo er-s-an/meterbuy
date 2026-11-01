@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.vercel
+.taste-skill
+.env
+.env.local
+.env.burner.local
+.env*.local
+*.log
+tsconfig.tsbuildinfo
+.DS_Store
