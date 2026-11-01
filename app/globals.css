@@ -135,7 +135,7 @@ button, input, textarea, select { font: inherit; color: inherit; }
 
 .folder .tab {
   position: absolute;
-  left: var(--tab, 8%);
+  left: clamp(0px, var(--tab, 8%), calc(100% - 9rem));
   top: -40px;
   height: 40px;
   min-width: 8.6rem;
@@ -715,7 +715,8 @@ ul { margin: 0.6rem 0 0; padding-left: 1.1rem; }
 @media (max-width: 860px) {
   .hero h1 { font-size: clamp(64px, 16vw, 92px); }
   .support { font-size: 16px; }
-  .folder-stack { margin: 20px 0 0; height: auto; min-height: 640px; }
+  .folder-stack { margin: 72px 0 0; height: auto; min-height: 640px; }
+  .support { margin-bottom: 8px; }
   .folder.front { min-height: 420px; }
   .statement { max-width: none; font-size: 24px; }
   .statement-wrap { padding: 72px 20px; }

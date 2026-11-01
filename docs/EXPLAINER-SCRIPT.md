@@ -16,7 +16,7 @@ There are three jobs, because there are three moments.
 
 A briefing, when I have symbols. A gate, when I have a draft. A note, when I have a question.
 
-The first screen is a quote slip. It is a specimen. It is not a receipt. I am going to earn a real result on the desk, or I am going to show you an honest stand-in. I will not blur those.
+The first screen is a meter ticket. I type a symbol and the ticket reprints the miner and the cent. That ticket is not a receipt. I am going to earn a real result on the desk, or I am going to show you an honest stand-in. I will not blur those.
 
 ## Buy the briefing (1:20–2:30)
 
